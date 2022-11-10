@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alihan Demirel</h1>
 <h3 align="center">Data Scientist Candidate</h3>
 
-- 🔭 I’m currently working on **Miuul Data Scientist and Machine Learning Bootcamp Participant**
+- 🔭 I’m currently working on **Miuul Data Science and Machine Learning Bootcamp Participant**
 
 - 📫 How to reach me **alihandemirel1@gmail.com**
 
